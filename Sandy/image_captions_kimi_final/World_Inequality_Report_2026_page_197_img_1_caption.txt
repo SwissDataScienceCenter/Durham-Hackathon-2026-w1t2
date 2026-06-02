@@ -1,0 +1,7 @@
+This line chart displays the income share (% of total income) held by two groups in the United States from 1900 to 2020: the **Top 10%** (red line) and the **Bottom 50%** (green line).
+
+**Top 10% Income Share (Red Line):**
+- In 1900, the Top 10% held approximately **42%** of total income (between 41% and 43%, close to 42%).
+- From 1900 to 1929, this share rose steadily, reaching a peak of approximately **48-49%** around 1929 (between 48% and 49%, nearly 50%, just under 50%).
+- A dramatic decline occurred during the 1930s-1940s, dropping to approximately **35%** by the mid-1940s (between 34% and 36%, approximately 35-36%).
+- The share remained relatively stable at **33-37%** from 1945 to 1980, hitting a low point of approximately **33-34%** in the late 1970s

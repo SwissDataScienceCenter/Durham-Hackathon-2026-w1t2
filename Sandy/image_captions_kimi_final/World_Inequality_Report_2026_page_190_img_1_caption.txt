@@ -1,0 +1,4 @@
+This line chart displays the income share (% of total) held by the Top 10% (red line) versus the Bottom 50% (green line) of the population from 1900 to 2020.
+
+**Top 10% Income Share (Red Line):**
+The Top 10% started at approximately **52-53%** (between 52% and 53%, close to 52%) in 1900, showing a gradual decline to about **51%** (between 50% and 52%, approximately 51%) by 1910. A steep drop occurred between 1910-1930, falling from **51%** to roughly **36%** (between 35%

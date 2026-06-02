@@ -1,0 +1,3 @@
+**Chart Analysis: Income Share Trends (1900-2020)**
+
+This line chart displays the income share (% of total income) held by two groups over time: the Top 10% (red line) and the Bottom

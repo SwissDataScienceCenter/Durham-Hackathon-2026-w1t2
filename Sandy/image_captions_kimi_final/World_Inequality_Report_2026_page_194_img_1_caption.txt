@@ -1,0 +1,12 @@
+**Chart Analysis: Income Share Distribution Over Time (1980-2023)**
+
+This line chart displays the income share (% of total income) held by two demographic segments in the United States from approximately 1980 to 2023: the Top 10% (red line) and the Bottom 50% (green line).
+
+**Top 10% Income Share (Red Line):**
+The Top 10% begins in 1980 at approximately **59-60%** (between 59% and 60%, close to 60%) of total income. This level remains relatively stable through the early 1980s, holding at roughly **59-60%** until around 1985-1986. 
+
+Beginning in the late 1980s, the share declines steadily, reaching approximately **57-58%** (between 57% and 58%) by 1990, then continuing downward to roughly **54-55%** (between 54% and 55%) by the mid-1990s. The line stabilizes around **54-55%** through the late 1990s and early 2000s.
+
+A significant drop occurs around 2005-2007, with the share falling to its lowest point of approximately **48-50%** (between 48% and 50%, close to 50%, approximately 49%). Following this trough, the share recovers slightly to around **50-51%** (between 50% and 51%) by 2010.
+
+From 2010 to 2020, the trend shows volatility with an overall upward trajectory: rising to approximately **51-52%** (between 51% and 52%) around 2012, dipping to **50%** (approximately 50%) around 2015, then climbing to roughly **55-56%** (between 55% and 56%) by 2020. The line shows fluctuations in the early 2020s, peaking around **55-56%** (between 55% and

@@ -1,0 +1,10 @@
+This line chart displays the income share (% of total) held by the Top 10% (red line) versus the Bottom 50% (green line) of the population from 1900 to 2020.
+
+**Top 10% Income Share:**
+- In 1900, the Top 10% held approximately **55%** of total income (between 54% and 56%, close to 55%).
+- This share rose steadily through the early 20th century, reaching approximately **61-62%** by 1920 (between 61% and 62%, approximately 61.5%).
+- The line continued climbing to a peak around **65%** in 1940 (between 64% and 66%, close to 65%, approximately 64-66%).
+- After 1940, the share declined to approximately **60%** by 1960 (between 59% and 61%, close to 60%).
+- There was a slight increase to approximately **61-62%** around 1970 (between 61% and 62%).
+- By 1980, the share dropped to approximately **58-59%** (between 58% and 59%, close to 58.5%).
+- From 1980 to 200

@@ -1,0 +1,3 @@
+This line chart displays income share trends from 1900 to 2020 for two population groups: the Top 10% (red line) and the Bottom 50% (green line).
+
+**Top
